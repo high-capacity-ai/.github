@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Contact High Capacity AI
+    url: https://highcapacity.us
+    about: Questions and corrections go to the team directly — Issues here are a curated public roadmap.
+  - name: Report a security vulnerability
+    url: https://highcapacity.us
+    about: Use the affected repository's private vulnerability reporting (Security tab) instead of opening a public issue.
